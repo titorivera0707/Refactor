@@ -2,7 +2,7 @@
 
 ### Description
 
-* Horiseon is a company dedicated to helping businesses survive and thrive in a competitive market. We started this company in 2019, and since then we have helped over 20 small businesses expand their brand name and image.
+* Horiseon is a company dedicated to helping businesses survive and thrive in a competitive market. We started this company in 2019, and since then we have helped over 20 small businesses expand their brand name and image. We have made our services much more affordable ever since the beggining of the pandemic. Small businesses have been hit especially hard during these tough times and we are here to help bring in any income. I learned that there are a lot of businesses that don't have an online presence because they have always counted on word of mouth as their form of advertisement. We think that our company stands out from all the rest because we have a motivation for helping people and businesses grow during these tough times.
 
 ### Code Style
 
