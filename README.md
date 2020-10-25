@@ -10,9 +10,9 @@
 
 ### Screen Shots
 
-* assets\images\Screenshot (1).png
-* assets\images\Screenshot (2).png
-* assets\images\Screenshot (3).png
+* ![Screenshot 1](assets\images\Screenshot-(1).png)
+* ![Screenshot 2](assets\images\Screenshot-(2).png)
+* ![Screenshot 3](assets\images\Screenshot-(3).png)
 
 ### How to Use
 
